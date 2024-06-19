@@ -7,7 +7,7 @@
 * Here's a detailed breakdown of how I completed this task:
 
 ## 1. Set Up the Project Repository 
-1. Create New Repository:
+** Create New Repository:
 * I created a new repository on GitHub called 'belly-button-challenge' and cloned this repository to my local computer. 
 
 * 2. Copy Starter Code:
