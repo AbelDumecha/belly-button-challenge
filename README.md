@@ -46,7 +46,10 @@ I. Dynamic Updates:
 * Bar Chart: Displays the top 10 OTUs for the selected sample. 
 * Bubble Chart: Visualizes the sample values against OTU IDs. 
 * Metadata Panel: Shows demographic information for the selected sample. 
-* Interactive updates: All charts and metadata update dynamically when a new sample is selected.  
+* Interactive updates: All charts and metadata update dynamically when a new sample is selected.
+
+## 6. Deploy the App
+* I deployed my app to GitHub Pages to make it accessible online. Here is the link: https://abeldumecha.github.io/belly-button-challenge/
 
 
  
