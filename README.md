@@ -7,11 +7,11 @@
 * Here's a detailed breakdown of how I completed this task:
 
 ## 1. Set Up the Project Repository 
-* 1. Create New Repository:
-* * I created a new repository on GitHub called 'belly-button-challenge' and cloned this repository to my local computer. 
+1. Create New Repository:
+* I created a new repository on GitHub called 'belly-button-challenge' and cloned this repository to my local computer. 
 
 * 2. Copy Starter Code:
-* * Inside my local repository, I copied the files from the 'StarterCode' folder (provided in the Module 14 Challenge zip file), including `index.html`, `samples.json`, and the `static` folder. 
+* Inside my local repository, I copied the files from the 'StarterCode' folder (provided in the Module 14 Challenge zip file), including `index.html`, `samples.json`, and the `static` folder. 
 
 * 3. Push chnges to GitHub repository:
 * * I commited and pushed these changes to my GitHub repository.
