@@ -27,10 +27,12 @@ I. Fetch Data with D3:
 I. Horizontal Bar Chart:
 * I added a dropdown menu to select different samples.
 * The bar chart displays the top 10 OTUs found in each individual.
-* I used `sample_values` as the values, `otu_ids` as the labels, and `otu_labels` as the hovertext for the bar chart. 
+* I used `sample_values` as the values, `otu_ids` as the labels, and `otu_labels` as the hovertext for the bar chart.
+  
 II. Bubble Chart:
 * The bubble chart displays each sample.
-* I used `otu_ids` for the x-axis, `sample_values` for the y-axis, `sample_values` for the marker sizes, `otu_ids` for the marker colors, and `otu_labels` for the text values. 
+* I used `otu_ids` for the x-axis, `sample_values` for the y-axis, `sample_values` for the marker sizes, `otu_ids` for the marker colors, and `otu_labels` for the text values.
+
 III. Display Metadata: 
 * I displayed each sample's metadata (i.e, individual's demographic information).
 * I looped through each key-value pair in the metadata JSON object and appended an HTML tag with the key-value pair to the `#sample-metadata` panel. 
