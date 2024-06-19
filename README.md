@@ -1,3 +1,5 @@
+# Project Title: Belly Button Challenge (Module 14)
+
 ## Overview 
 * Belly Button Biodiversity Dashboard project involves creating an interactive dashboard to explore the fascinating world of microbes that colonize human navels. Using data from the Belly Button Biodiversity dataset, I built a dashboard that allows users to discover the diverse microbial species (operational taxonomic units or OTUs) found in human belly buttons.
 
@@ -42,7 +44,7 @@
 * * Bar Chart: Displays the top 10 OTUs for the selected sample. 
 * *  Bubble Chart: Visualizes the sample values against OTU IDs. 
 * *  Metadata Panel: Shows demographic information for the selected sample. 
-* *  Interactive updates: All charts and metadata update dynamically when a new sample is selected. 
+* *  Interactive updates: All charts and metadata update dynamically when a new sample is selected.  
 
 
  
